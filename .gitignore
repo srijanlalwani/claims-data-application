@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+npm-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# Build outputs
+/dist
+/build
+
+# Temporary files
+.DS_Store
+*.tmp
+*.bak
+*.swp
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-*
